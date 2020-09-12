@@ -67,18 +67,10 @@ A collaboration between [Lauren Siminski](https://github.com/siminski), [Kim Cre
 * [Sequelize](https://www.npmjs.com/package/sequelize)
 
 
-## Questions
-If you have any questions, feel free to find me at:
-* Email: laurensiminski@gmail.com
-* Website: https://siminski.co
-* Github: [@siminski](https://github.com/siminski)
-
-
-## Donate
-Appreciate this code? Say thanks with a coffee:
-
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W21YVJJ)
+## Other work
+To view my otherp projects, check out my github:
+* [@kimcredit](https://github.com/kimcredit)
 
 
 ## License
-Copyright (c) 2020 Lauren Siminski.
+Copyright (c) 2020 Kim Credit.
